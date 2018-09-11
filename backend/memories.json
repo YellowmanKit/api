@@ -1,0 +1,42 @@
+﻿{
+    "delayTime": 8,
+    "Folders": [
+        {
+            "name": "世界風景",
+            "imageCells": [
+                {
+                    "name": "Bigboard_situation_up.png",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "Bigboard_situation_Down.png",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "Bigboard_situation_trash.png",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        },
+        {
+            "name": "舊香港",
+            "imageCells": []
+        },
+        {
+            "name": "活動資料",
+            "imageCells": []
+        },
+        {
+            "name": "中心照片集",
+            "imageCells": []
+        },
+        {
+            "name": "其他",
+            "imageCells": []
+        }
+    ],
+    "timeStamp": "151918221557"
+}

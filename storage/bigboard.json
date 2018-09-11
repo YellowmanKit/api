@@ -1,0 +1,26 @@
+{
+    "delayTime": 20,
+    "randomStamp": 101,
+    "Folders": [
+        {
+            "name": "院舍狀況",
+            "imageCells": []
+        },
+        {
+            "name": "院舍資訊",
+            "imageCells": []
+        },
+        {
+            "name": "董事會架構",
+            "imageCells": []
+        },
+        {
+            "name": "活動消息",
+            "imageCells": []
+        },
+        {
+            "name": "其他",
+            "imageCells": []
+        }
+    ]
+}

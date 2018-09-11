@@ -1,0 +1,35 @@
+{
+    "delayTime": 5,
+    "randomStamp": 101,
+    "Folders": [
+        {
+            "name": "健康資訊",
+            "imageCells": []
+        },
+        {
+            "name": "生活小提示",
+            "imageCells": []
+        },
+        {
+            "name": "中心通告",
+            "imageCells": [
+                {
+                    "name": "智醒老友記-1523590037298.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "投影片1-1522037954669.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "watercolor-wallpaper-1521191794695.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        }
+    ],
+    "timeStamp": "1526629391593"
+}

@@ -1,0 +1,65 @@
+{
+    "delayTime": 5,
+    "Folders": [
+        {
+            "name": "院舍狀況",
+            "imageCells": [
+                {
+                    "name": "Slide05.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "images1.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        },
+        {
+            "name": "院舍資訊",
+            "imageCells": [
+                {
+                    "name": "stockdatabase-1024x662.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        },
+        {
+            "name": "董事會架構",
+            "imageCells": [
+                {
+                    "name": "Apple-Devices-PSD-Mockup-Templates.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                },
+                {
+                    "name": "Devices Mockup_IDMS.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        },
+        {
+            "name": "活動消息",
+            "imageCells": [
+                {
+                    "name": "stockdatabase-1024x662.jpg",
+                    "imgFile": {},
+                    "downloadedImg": {}
+                }
+            ]
+        },
+        {
+            "name": "其他",
+            "imageCells": [
+                {
+                    "name": "Cloud Computing.png",
+                    "imgFile": {}
+                }
+            ]
+        }
+    ],
+    "timeStamp": "1520326818876"
+}
